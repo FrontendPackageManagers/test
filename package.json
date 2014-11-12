@@ -1,16 +1,16 @@
 {
   "name": "frontendpackagemanagers-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TodoFPM test repo",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Todo-Frontend-Package-Manager/test.git"
+    "url": "https://github.com/FrontendPackageManagers/test.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Todo-Frontend-Package-Manager/test/issues"
+    "url": "https://github.com/FrontendPackageManagers/test/issues"
   },
-  "homepage": "https://github.com/Todo-Frontend-Package-Manager/test"
+  "homepage": "https://github.com/FrontendPackageManagers/test"
 }
